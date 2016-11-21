@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/igor/IdeaProjects/Lab3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/igor/IdeaProjects/Lab3/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_f062e1ac077695cc8f5be89e06297af2de8343b6.jar" />
+    </item>
+    <item
+        jar="/home/igor/IdeaProjects/Lab3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="10edaef3fba07a9711f517ebfbaf7786ec2ae21a">
+        <dex dex="/home/igor/IdeaProjects/Lab3/app/build/intermediates/pre-dexed/debug/instant-run_1c6b13896f8ef5a70ac7358c0390211772708228.jar" />
+    </item>
+    <item
+        jar="/home/igor/IdeaProjects/Lab3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/igor/IdeaProjects/Lab3/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_56f6472a0254a4bb7a2af89e1a8414d127558f06.jar" />
+    </item>
+    <item
+        jar="/home/igor/Documents/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/igor/IdeaProjects/Lab3/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_630fa7cc80760eae06a6285af207a7b73f62a04d.jar" />
+    </item>
+    <item
+        jar="/home/igor/IdeaProjects/Lab3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/igor/IdeaProjects/Lab3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_1cf4afecd484e810551a3373fa038c142f8e13a4.jar" />
+    </item>
+    <item
+        jar="/home/igor/IdeaProjects/Lab3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/igor/IdeaProjects/Lab3/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_fd85477ba3c718531046d0a1d28d40be1b9eae97.jar" />
+    </item>
+    <item
+        jar="/home/igor/IdeaProjects/Lab3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/igor/IdeaProjects/Lab3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_3fef19c7a3cb7211ba9ed3f128c1e9a432ab9fb0.jar" />
+    </item>
+    <item
+        jar="/home/igor/IdeaProjects/Lab3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d24ddde35692bcda42203367089f31fb0e2b84e4">
+        <dex dex="/home/igor/IdeaProjects/Lab3/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d0429f2d94682ed1b036e343d14ca8058d459da7.jar" />
+    </item>
+
+</items>
